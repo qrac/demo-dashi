@@ -26,8 +26,8 @@ $ npm install demo-dashi
 ### [jsDelivr](https://www.jsdelivr.com/package/npm/demo-dashi)
 
 ```
-https://cdn.jsdelivr.net/npm/demo-dashi@0.0.1/src/area/japan.json
-https://cdn.jsdelivr.net/npm/demo-dashi@0.0.1/src/line/japan.json
+https://cdn.jsdelivr.net/npm/demo-dashi@0.0.2/src/area/japan.json
+https://cdn.jsdelivr.net/npm/demo-dashi@0.0.2/src/line/japan.json
 ```
 
 ## License
