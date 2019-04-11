@@ -3,7 +3,7 @@
     {
       "name": "東京都",
       "id": "tokyo",
-      "line_group": [
+      "line_groups": [
         {
           "name": "JR",
           "id": "jr",
