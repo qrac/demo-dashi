@@ -1,0 +1,234 @@
+{
+  "regions": [
+    {
+      "name": "北海道・東北",
+      "id": "hokkaido-tohoku",
+      "prefectures": [
+        {
+          "name": "北海道",
+          "id": "hokkaido"
+        },
+        {
+          "name": "青森県",
+          "id": "aomori"
+        },
+        {
+          "name": "岩手県",
+          "id": "iwate"
+        },
+        {
+          "name": "宮城県",
+          "id": "miyagi"
+        },
+        {
+          "name": "秋田県",
+          "id": "akita"
+        },
+        {
+          "name": "山形県",
+          "id": "yamagata"
+        },
+        {
+          "name": "福島県",
+          "id": "fukushima"
+        }
+      ]
+    },
+    {
+      "name": "関東",
+      "id": "kanto",
+      "prefectures": [
+        {
+          "name": "東京都",
+          "id": "tokyo"
+        },
+        {
+          "name": "神奈川県",
+          "id": "kanagawa"
+        },
+        {
+          "name": "埼玉県",
+          "id": "saitama"
+        },
+        {
+          "name": "千葉県",
+          "id": "chiba"
+        },
+        {
+          "name": "茨城県",
+          "id": "ibaraki"
+        },
+        {
+          "name": "栃木県",
+          "id": "tochigi"
+        },
+        {
+          "name": "群馬県",
+          "id": "gunma"
+        }
+      ]
+    },
+    {
+      "name": "北陸・甲信越",
+      "id": "koshinetsu-hokuriku",
+      "prefectures": [
+        {
+          "name": "新潟県",
+          "id": "niigata"
+        },
+        {
+          "name": "富山県",
+          "id": "toyama"
+        },
+        {
+          "name": "石川県",
+          "id": "ishikawa"
+        },
+        {
+          "name": "福井県",
+          "id": "fukui"
+        },
+        {
+          "name": "山梨県",
+          "id": "yamanashi"
+        },
+        {
+          "name": "長野県",
+          "id": "nagano"
+        }
+      ]
+    },
+    {
+      "name": "東海",
+      "id": "tokai",
+      "prefectures": [
+        {
+          "name": "愛知県",
+          "id": "aichi"
+        },
+        {
+          "name": "岐阜県",
+          "id": "gifu"
+        },
+        {
+          "name": "静岡県",
+          "id": "shizuoka"
+        },
+        {
+          "name": "三重県",
+          "id": "mie"
+        }
+      ]
+    },
+    {
+      "name": "近畿",
+      "id": "kinki",
+      "prefectures": [
+        {
+          "name": "大阪府",
+          "id": "osaka"
+        },
+        {
+          "name": "兵庫県",
+          "id": "hyogo"
+        },
+        {
+          "name": "京都府",
+          "id": "kyoto"
+        },
+        {
+          "name": "滋賀県",
+          "id": "shiga"
+        },
+        {
+          "name": "奈良県",
+          "id": "nara"
+        },
+        {
+          "name": "和歌山県",
+          "id": "wakayama"
+        }
+      ]
+    },
+    {
+      "name": "中国・四国",
+      "id": "chugoku-shikoku",
+      "prefectures": [
+        {
+          "name": "鳥取県",
+          "id": "tottori"
+        },
+        {
+          "name": "島根県",
+          "id": "shimane"
+        },
+        {
+          "name": "岡山県",
+          "id": "okayama"
+        },
+        {
+          "name": "広島県",
+          "id": "hiroshima"
+        },
+        {
+          "name": "山口県",
+          "id": "yamaguchi"
+        },
+        {
+          "name": "徳島県",
+          "id": "tokushima"
+        },
+        {
+          "name": "香川県",
+          "id": "kagawa"
+        },
+        {
+          "name": "愛媛県",
+          "id": "ehime"
+        },
+        {
+          "name": "高知県",
+          "id": "kochi"
+        }
+      ]
+    },
+    {
+      "name": "九州・沖縄",
+      "id": "kyushu-okinawa",
+      "prefectures": [
+        {
+          "name": "福岡県",
+          "id": "fukuoka"
+        },
+        {
+          "name": "佐賀県",
+          "id": "saga"
+        },
+        {
+          "name": "長崎県",
+          "id": "nagasaki"
+        },
+        {
+          "name": "熊本県",
+          "id": "kumamoto"
+        },
+        {
+          "name": "大分県",
+          "id": "oita"
+        },
+        {
+          "name": "宮崎県",
+          "id": "miyazaki"
+        },
+        {
+          "name": "鹿児島県",
+          "id": "kagoshima"
+        },
+        {
+          "name": "沖縄県",
+          "id": "okinawa"
+        }
+      ]
+    }
+  ]
+}

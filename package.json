@@ -1,0 +1,23 @@
+{
+  "name": "demo-dashi",
+  "description": "Web production JSON demo data",
+  "version": "0.0.1",
+  "license": "CC0-1.0",
+  "repository": "https://github.com/qrac/demo-dashi",
+  "bugs": "https://github.com/qrac/demo-dashi/issues",
+  "keywords": [
+    "demo",
+    "demo-data",
+    "json",
+    "japanese",
+    "dashi"
+  ],
+  "author": {
+    "name": "Qrac",
+    "url": "https://qrac.jp"
+  },
+  "organization": {
+    "name": "QRANOKO",
+    "url": "https://qranoko.jp"
+  }
+}
