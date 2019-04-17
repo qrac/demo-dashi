@@ -1,7 +1,7 @@
 {
   "name": "demo-dashi",
   "description": "Web production JSON demo data",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "license": "CC0-1.0",
   "repository": "https://github.com/qrac/demo-dashi",
   "bugs": "https://github.com/qrac/demo-dashi/issues",

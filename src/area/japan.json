@@ -64,7 +64,7 @@
             { "area23": true, "name": "練馬区" },
             { "area23": true, "name": "足立区" },
             { "area23": true, "name": "葛飾区" },
-            { "area23": false, "name": "江戸川区" },
+            { "area23": true, "name": "江戸川区" },
             { "area23": false, "name": "八王子市" },
             { "area23": false, "name": "立川市" },
             { "area23": false, "name": "武蔵野市" },
