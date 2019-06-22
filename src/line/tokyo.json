@@ -1,0 +1,414 @@
+{
+  "line_groups": [
+    {
+      "name": "JR東日本",
+      "lines": [
+        {
+          "line_name": "東北本線",
+          "line_color": "#60B077"
+        },
+        {
+          "line_name": "常磐線",
+          "line_color": "#4FAE69"
+        },
+        {
+          "line_name": "高崎線",
+          "line_color": "#E88F3D"
+        },
+        {
+          "line_name": "湘南新宿ライン宇須",
+          "line_color": "#E88F3D"
+        },
+        {
+          "line_name": "湘南新宿ライン高海",
+          "line_color": "#317ABB"
+        },
+        {
+          "line_name": "総武本線",
+          "line_color": "#F6C345"
+        },
+        {
+          "line_name": "京葉線",
+          "line_color": "#B93536"
+        },
+        {
+          "line_name": "東海道本線",
+          "line_color": "#E88F3D"
+        },
+        {
+          "line_name": "山手線",
+          "line_color": "#8FBF55"
+        },
+        {
+          "line_name": "南武線",
+          "line_color": "#F9D448"
+        },
+        {
+          "line_name": "武蔵野線",
+          "line_color": "#E06336"
+        },
+        {
+          "line_name": "横浜線",
+          "line_color": "#8FBF55"
+        },
+        {
+          "line_name": "横須賀線",
+          "line_color": "#317ABB"
+        },
+        {
+          "line_name": "中央本線（東京--長野）",
+          "line_color": "#E06336"
+        },
+        {
+          "line_name": "青梅線",
+          "line_color": "#E06336"
+        },
+        {
+          "line_name": "五日市線",
+          "line_color": "#E06336"
+        },
+        {
+          "line_name": "八高線",
+          "line_color": "#A7A39E"
+        },
+        {
+          "line_name": "京浜東北・根岸線",
+          "line_color": "#4DB0E0"
+        },
+        {
+          "line_name": "埼京線",
+          "line_color": "#50B18F"
+        },
+        {
+          "line_name": "総武・中央緩行線",
+          "line_color": "#F9D448"
+        },
+        {
+          "line_name": "東北新幹線",
+          "line_color": "#377D21"
+        },
+        {
+          "line_name": "上越新幹線",
+          "line_color": "#377D21"
+        },
+        {
+          "line_name": "山形新幹線",
+          "line_color": "#377D21"
+        },
+        {
+          "line_name": "秋田新幹線",
+          "line_color": "#377D21"
+        },
+        {
+          "line_name": "北陸新幹線",
+          "line_color": "#377D21"
+        }
+      ]
+    },
+    {
+      "name": "JR東海",
+      "lines": [
+        {
+          "line_name": "東海道・山陽新幹線",
+          "line_color": "#377D21"
+        }
+      ]
+    },
+    {
+      "name": "京王電鉄",
+      "lines": [
+        {
+          "line_name": "京王電鉄京王線",
+          "line_color": "#0F3989"
+        },
+        {
+          "line_name": "京王電鉄高尾線",
+          "line_color": "#0F3989"
+        },
+        {
+          "line_name": "京王電鉄相模原線",
+          "line_color": "#0F3989"
+        },
+        {
+          "line_name": "京王電鉄井の頭線",
+          "line_color": "#0F3989"
+        }
+      ]
+    },
+    {
+      "name": "京成電鉄",
+      "lines": [
+        {
+          "line_name": "成田スカイアクセス",
+          "line_color": "#43529C"
+        },
+        {
+          "line_name": "京成電鉄本線",
+          "line_color": "#43529C"
+        },
+        {
+          "line_name": "京成電鉄押上線",
+          "line_color": "#43529C"
+        },
+        {
+          "line_name": "京成電鉄金町線",
+          "line_color": "#43529C"
+        }
+      ]
+    },
+    {
+      "name": "京浜急行電鉄",
+      "lines": [
+        {
+          "line_name": "京浜急行電鉄本線",
+          "line_color": "#BA383F"
+        },
+        {
+          "line_name": "京浜急行電鉄空港線",
+          "line_color": "#BA383F"
+        }
+      ]
+    },
+    {
+      "name": "小田急電鉄",
+      "lines": [
+        {
+          "line_name": "小田急電鉄小田原線",
+          "line_color": "#1C519C"
+        },
+        {
+          "line_name": "小田急電鉄多摩線",
+          "line_color": "#1C519C"
+        }
+      ]
+    },
+    {
+      "name": "西武鉄道",
+      "lines": [
+        {
+          "line_name": "西武池袋・豊島線",
+          "line_color": "F8CC55"
+        },
+        {
+          "line_name": "西武有楽町線",
+          "line_color": "F8CC55"
+        },
+        {
+          "line_name": "西武鉄道新宿線",
+          "line_color": "F8CC55"
+        },
+        {
+          "line_name": "西武鉄道国分寺線",
+          "line_color": "F8CC55"
+        },
+        {
+          "line_name": "西武鉄道多摩湖線",
+          "line_color": "F8CC55"
+        },
+        {
+          "line_name": "西武鉄道多摩川線",
+          "line_color": "F8CC55"
+        },
+        {
+          "line_name": "西武鉄道拝島線",
+          "line_color": "F8CC55"
+        },
+        {
+          "line_name": "西武鉄道山口線",
+          "line_color": "F8CC55"
+        }
+      ]
+    },
+    {
+      "name": "東京急行電鉄",
+      "lines": [
+        {
+          "line_name": "東急東横線",
+          "line_color": "#C82C46"
+        },
+        {
+          "line_name": "東急多摩川線",
+          "line_color": "#C82C46"
+        },
+        {
+          "line_name": "東急大井町線",
+          "line_color": "#C82C46"
+        },
+        {
+          "line_name": "東急田園都市線",
+          "line_color": "#C82C46"
+        },
+        {
+          "line_name": "東急池上線",
+          "line_color": "#C82C46"
+        },
+        {
+          "line_name": "東急世田谷線",
+          "line_color": "#C82C46"
+        },
+        {
+          "line_name": "東急目黒線",
+          "line_color": "#C82C46"
+        }
+      ]
+    },
+    {
+      "name": "東京臨海高速鉄道",
+      "lines": [
+        {
+          "line_name": "りんかい線",
+          "line_color": "#154289"
+        }
+      ]
+    },
+    {
+      "name": "東武鉄道",
+      "lines": [
+        {
+          "line_name": "東武伊勢崎・大師線",
+          "line_color": "#2E6DBD"
+        },
+        {
+          "line_name": "東武鉄道亀戸線",
+          "line_color": "#2E6DBD"
+        },
+        {
+          "line_name": "東武鉄道東上線",
+          "line_color": "#2E6DBD"
+        }
+      ]
+    },
+    {
+      "name": "北総鉄道",
+      "lines": [
+        {
+          "line_name": "北総鉄道",
+          "line_color": "#43529C"
+        }
+      ]
+    },
+    {
+      "name": "東京メトロ",
+      "lines": [
+        {
+          "line_name": "千代田・常磐緩行線",
+          "line_color": "#519798"
+        },
+        {
+          "line_name": "東京メトロ銀座線",
+          "line_color": "#E79A37"
+        },
+        {
+          "line_name": "東京メトロ丸ノ内線",
+          "line_color": "#D42C25"
+        },
+        {
+          "line_name": "東京メトロ丸ノ内線（方南支線）",
+          "line_color": "#D42C25"
+        },
+        {
+          "line_name": "東京メトロ日比谷線",
+          "line_color": "#9FAEB6"
+        },
+        {
+          "line_name": "東京メトロ東西線",
+          "line_color": "#48A6D6"
+        },
+        {
+          "line_name": "東京メトロ千代田線",
+          "line_color": "#43964E"
+        },
+        {
+          "line_name": "東京メトロ有楽町線",
+          "line_color": "#D4C35D"
+        },
+        {
+          "line_name": "東京メトロ半蔵門線",
+          "line_color": "#967EB2"
+        },
+        {
+          "line_name": "東京メトロ南北線",
+          "line_color": "#4CAAA8"
+        },
+        {
+          "line_name": "東京メトロ副都心線",
+          "line_color": "#B0682F"
+        }
+      ]
+    },
+    {
+      "name": "都営地下鉄",
+      "lines": [
+        {
+          "line_name": "東京都浅草線",
+          "line_color": "#D75E96"
+        },
+        {
+          "line_name": "東京都三田線",
+          "line_color": "#3179BC"
+        },
+        {
+          "line_name": "東京都新宿線",
+          "line_color": "#7FB866"
+        },
+        {
+          "line_name": "東京都荒川線",
+          "line_color": "#469140"
+        },
+        {
+          "line_name": "東京都大江戸線",
+          "line_color": "#A72577"
+        },
+        {
+          "line_name": "日暮里舎人ライナー",
+          "line_color": "#469140"
+        }
+      ]
+    },
+    {
+      "name": "ゆりかもめ",
+      "lines": [
+        {
+          "line_name": "ゆりかもめ",
+          "line_color": "#2C404D"
+        }
+      ]
+    },
+    {
+      "name": "埼玉高速鉄道",
+      "lines": [
+        {
+          "line_name": "埼玉高速鉄道",
+          "line_color": "#405EA5"
+        }
+      ]
+    },
+    {
+      "name": "首都圏新都市鉄道",
+      "lines": [
+        {
+          "line_name": "つくばエクスプレス",
+          "line_color": "#000C7E"
+        }
+      ]
+    },
+    {
+      "name": "多摩都市モノレール",
+      "lines": [
+        {
+          "line_name": "多摩都市モノレール",
+          "line_color": "#DE732C"
+        }
+      ]
+    },
+    {
+      "name": "東京モノレール",
+      "lines": [
+        {
+          "line_name": "東京モノレール羽田",
+          "line_color": "#265AB7"
+        }
+      ]
+    }
+  ]
+}
