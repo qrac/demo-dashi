@@ -187,35 +187,35 @@
       "lines": [
         {
           "line_name": "西武池袋・豊島線",
-          "line_color": "F8CC55"
+          "line_color": "#F8CC55"
         },
         {
           "line_name": "西武有楽町線",
-          "line_color": "F8CC55"
+          "line_color": "#F8CC55"
         },
         {
           "line_name": "西武鉄道新宿線",
-          "line_color": "F8CC55"
+          "line_color": "#F8CC55"
         },
         {
           "line_name": "西武鉄道国分寺線",
-          "line_color": "F8CC55"
+          "line_color": "#F8CC55"
         },
         {
           "line_name": "西武鉄道多摩湖線",
-          "line_color": "F8CC55"
+          "line_color": "#F8CC55"
         },
         {
           "line_name": "西武鉄道多摩川線",
-          "line_color": "F8CC55"
+          "line_color": "#F8CC55"
         },
         {
           "line_name": "西武鉄道拝島線",
-          "line_color": "F8CC55"
+          "line_color": "#F8CC55"
         },
         {
           "line_name": "西武鉄道山口線",
-          "line_color": "F8CC55"
+          "line_color": "#F8CC55"
         }
       ]
     },
